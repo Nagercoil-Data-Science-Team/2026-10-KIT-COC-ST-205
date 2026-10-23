@@ -1,3 +1,3 @@
-Title: An Advanced TCN–BiLSTM Multi-Head Attention Framework with Trust-Aware HHO Optimization for Secure and Energy-Efficient Wireless Sensor Networks
+Title: Latency-Critical Task Offloading in Multi-Tier Edge-Cloud Systems via Distributed Multi-Agent Reinforcement Learning
 
-Domain: TCN–BiLSTM Multi-Head Attention Framework,Trust-Aware HHO Optimization,Energy-Efficient Wireless Sensor Networks
+Domain: Task Offloading,Multi-Tier Edge-Cloud Systems,Distributed Multi-Agent Reinforcement Learning
